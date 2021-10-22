@@ -1,0 +1,15 @@
+C:\Outsourcing\ExamRegistration\Services\bin\Debug\net5.0\ExamRegistration.Services.deps.json
+C:\Outsourcing\ExamRegistration\Services\bin\Debug\net5.0\ExamRegistration.Services.dll
+C:\Outsourcing\ExamRegistration\Services\bin\Debug\net5.0\ref\ExamRegistration.Services.dll
+C:\Outsourcing\ExamRegistration\Services\bin\Debug\net5.0\ExamRegistration.Services.pdb
+C:\Outsourcing\ExamRegistration\Services\bin\Debug\net5.0\ExamRegistration.Domain.dll
+C:\Outsourcing\ExamRegistration\Services\bin\Debug\net5.0\ExamRegistration.Domain.pdb
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ExamRegistration.Services.csproj.AssemblyReference.cache
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ExamRegistration.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ExamRegistration.Services.AssemblyInfoInputs.cache
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ExamRegistration.Services.AssemblyInfo.cs
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ExamRegistration.Services.csproj.CoreCompileInputs.cache
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ExamRegistration.Services.csproj.CopyComplete
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ExamRegistration.Services.dll
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ref\ExamRegistration.Services.dll
+C:\Outsourcing\ExamRegistration\Services\obj\Debug\net5.0\ExamRegistration.Services.pdb

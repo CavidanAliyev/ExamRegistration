@@ -1,0 +1,12 @@
+C:\Outsourcing\ExamRegistration\Domain\bin\Debug\net5.0\ExamRegistration.Domain.deps.json
+C:\Outsourcing\ExamRegistration\Domain\bin\Debug\net5.0\ExamRegistration.Domain.dll
+C:\Outsourcing\ExamRegistration\Domain\bin\Debug\net5.0\ref\ExamRegistration.Domain.dll
+C:\Outsourcing\ExamRegistration\Domain\bin\Debug\net5.0\ExamRegistration.Domain.pdb
+C:\Outsourcing\ExamRegistration\Domain\obj\Debug\net5.0\ExamRegistration.Domain.csproj.AssemblyReference.cache
+C:\Outsourcing\ExamRegistration\Domain\obj\Debug\net5.0\ExamRegistration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Outsourcing\ExamRegistration\Domain\obj\Debug\net5.0\ExamRegistration.Domain.AssemblyInfoInputs.cache
+C:\Outsourcing\ExamRegistration\Domain\obj\Debug\net5.0\ExamRegistration.Domain.AssemblyInfo.cs
+C:\Outsourcing\ExamRegistration\Domain\obj\Debug\net5.0\ExamRegistration.Domain.csproj.CoreCompileInputs.cache
+C:\Outsourcing\ExamRegistration\Domain\obj\Debug\net5.0\ExamRegistration.Domain.dll
+C:\Outsourcing\ExamRegistration\Domain\obj\Debug\net5.0\ref\ExamRegistration.Domain.dll
+C:\Outsourcing\ExamRegistration\Domain\obj\Debug\net5.0\ExamRegistration.Domain.pdb
