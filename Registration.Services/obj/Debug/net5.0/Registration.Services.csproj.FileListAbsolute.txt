@@ -1,0 +1,17 @@
+C:\Registration\Registration.Services\bin\Debug\net5.0\Registration.Services.deps.json
+C:\Registration\Registration.Services\bin\Debug\net5.0\Registration.Services.dll
+C:\Registration\Registration.Services\bin\Debug\net5.0\ref\Registration.Services.dll
+C:\Registration\Registration.Services\bin\Debug\net5.0\Registration.Services.pdb
+C:\Registration\Registration.Services\bin\Debug\net5.0\Registration.Domain.dll
+C:\Registration\Registration.Services\bin\Debug\net5.0\Registration.EntityFrameworkCore.dll
+C:\Registration\Registration.Services\bin\Debug\net5.0\Registration.Domain.pdb
+C:\Registration\Registration.Services\bin\Debug\net5.0\Registration.EntityFrameworkCore.pdb
+C:\Registration\Registration.Services\obj\Debug\net5.0\Registration.Services.csproj.AssemblyReference.cache
+C:\Registration\Registration.Services\obj\Debug\net5.0\Registration.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Registration\Registration.Services\obj\Debug\net5.0\Registration.Services.AssemblyInfoInputs.cache
+C:\Registration\Registration.Services\obj\Debug\net5.0\Registration.Services.AssemblyInfo.cs
+C:\Registration\Registration.Services\obj\Debug\net5.0\Registration.Services.csproj.CoreCompileInputs.cache
+C:\Registration\Registration.Services\obj\Debug\net5.0\Registration.Services.csproj.CopyComplete
+C:\Registration\Registration.Services\obj\Debug\net5.0\Registration.Services.dll
+C:\Registration\Registration.Services\obj\Debug\net5.0\ref\Registration.Services.dll
+C:\Registration\Registration.Services\obj\Debug\net5.0\Registration.Services.pdb

@@ -1,0 +1,62 @@
+﻿@model IList<Registration.Domain.Exams.Exam>
+@{
+    ViewData["Title"] = "İmtahanlar";
+}
+
+<section id="main-content">
+    <section id="wrapper">
+        <div class="row">
+            <div class="col-lg-12">
+                <section class="panel">
+                    <header class="panel-heading">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-4">
+                                <h3>İmtahanlar</h3>
+                            </div>
+                            <div class="col-md-6 col-md-offset-4">
+                                <a style="float:right" class="btn btn-primary" asp-area="" asp-controller="Exam" asp-action="Create">
+                                    <b>Yeni</b>
+                                </a>
+                            </div>
+                        </div>
+                    </header>
+                    <div class="panel-body">
+                        <table class="table table-bordered">
+                            <thead>
+                                <tr>
+                                    <th>Sıra</th>
+                                    <th>Dərsin kodu</th>
+                                    <th>Tələbənin nömrəsi</th>
+                                    <th>İmtahan tarixi</th>
+                                    <th>Qiymət</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @{ int i = 1;}
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <th>@i</th>
+                                        <td>@item.LessonCode</td>
+                                        <td>@item.StudentNumber</td>
+                                        <td>@item.ExamDate</td>
+                                        <td>@item.Grade</td>
+                                        <td>
+                                            <a class="btn btn-primary" asp-controller="Exam" asp-action="Edit" asp-route-ID="@item.Id">
+                                                Düzəliş
+                                            </a>
+                                            <a class="btn btn-danger" asp-controller="Exam" asp-action="Delete" asp-route-ID="@item.Id">Sil</a>
+                                        </td>
+                                    </tr>
+                                    i++;
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </section>
+</section>
